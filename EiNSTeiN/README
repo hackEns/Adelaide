@@ -1,0 +1,28 @@
+This is Prusa iteration 3
+Published under GPL v3
+
+This is my (EiNSTeiN_) take on the i3. Full BOM, wire and rods cutting guides as tested by myself
+is provided below.
+
+Complete BOM:
+https://docs.google.com/spreadsheet/ccc?key=0AqUfDACdzybDdFk5QVJkLUFlUDNUUS1sQm9iMi00Smc#gid=0
+
+Rods cutting guide:
+https://docs.google.com/spreadsheet/ccc?key=0AqUfDACdzybDdFk5QVJkLUFlUDNUUS1sQm9iMi00Smc#gid=3
+
+Wires cutting guide:
+https://docs.google.com/spreadsheet/ccc?key=0AqUfDACdzybDdFk5QVJkLUFlUDNUUS1sQm9iMi00Smc#gid=1
+
+Pictures of the printed parts and their quantity:
+https://docs.google.com/spreadsheet/ccc?key=0AqUfDACdzybDdFk5QVJkLUFlUDNUUS1sQm9iMi00Smc#gid=2
+
+Assembly pictures of the whole printer (last pictures are more recent):
+http://imgur.com/a/3OXXX
+
+Assembly of the micro dual extruder:
+http://imgur.com/a/WBYYm
+
+My fork of Marlin is pre-configured to work with this printer (PG35L steppers, GT2 belts, J-Head     
+thermistors, etc):
+https://github.com/EiNSTeiN-/Marlin
+
